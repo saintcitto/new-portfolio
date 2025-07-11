@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "title": "Ecommerce Data Analysis",
+    "slug": "ecommerce-data-analysis",
+    "description": "Analisis data komprehensif untuk proyek e-commerce, meliputi metrik penjualan, perilaku pelanggan, dan tren pasar.",
+    "longDescription": "Proyek ini berfokus pada analisis data transaksi e-commerce untuk mengidentifikasi pola, peluang, dan area perbaikan. Menggunakan alat analisis data seperti Python (Pandas, Matplotlib, Seaborn) dan SQL, kami mengekstrak wawasan dari set data penjualan untuk membantu pengambilan keputusan strategis.",
+    "category": "Data Science (Using Jupyter Notebook)",
+    "type": "PERSONAL",
+    "year": "2024",
+    "externalImageUrl": "https://miro.medium.com/v2/resize:fit:1400/1*Yb8_hknT4RQvwn6-o2_jnA.gif",
+    "githubUrl": "https://github.com/saintcitto/ecommerce-data-analysis"
+  },
+  {
+    "id": "2",
+    "title": "Vims Portfolio",
+    "slug": "vims-portfolio",
+    "description": "Repositori untuk portfolio pribadi Vim, menampilkan berbagai proyek dan keahlian pengembangan web.",
+    "longDescription": "Ini adalah kode sumber untuk portfolio pribadi saya, dibuat menggunakan teknologi web modern. Tujuannya adalah untuk menampilkan proyek-proyek saya, keterampilan teknis, dan pengalaman profesional dalam format yang menarik dan interaktif. Proyek ini dibangun dengan fokus pada desain responsif, performa, dan pengalaman pengguna.",
+    "category": "Web Development (Using Vue.JS)",
+    "type": "PORTFOLIO",
+    "year": "2024",
+    "externalImageUrl": "https://miro.medium.com/v2/resize:fit:960/format:webp/1*xM-RCJp1er6pb9rtXhW9Lw.gif",
+    "githubUrl": "https://github.com/saintcitto/vims-portfolio"
+  },
+  {
+    "id": "3",
+    "title": "Rapel",
+    "slug": "rapel",
+    "description": "Website perusahaan responsif yang dibangun dengan React.js, dirancang untuk menyajikan informasi bisnis dan layanan secara profesional.",
+    "longDescription": "Proyek ini adalah pengembangan website perusahaan yang dinamis dan responsif, dibangun menggunakan React.js. Dirancang untuk menyajikan informasi bisnis, layanan, dan portofolio perusahaan secara profesional. Fitur-fitur meliputi navigasi intuitif, desain modern, dan optimasi untuk pengalaman pengguna lintas perangkat.",
+    "category": "Company Website (Using React.JS)",
+    "type": "PROJECT",
+    "year": "2024",
+    "agency": "Vim",
+    "externalImageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*NJxNSzOXEm8kDiKl.gif",
+    "githubUrl": "https://github.com/saintcitto/rapel"
+  },
+  {
+    "id": "4",
+    "title": "Shit Portofolio",
+    "slug": "shit-portofolio",
+    "description": "Sebuah eksperimen atau versi awal dari portfolio, mungkin digunakan untuk menguji ide-ide baru atau fitur-fitur.",
+    "longDescription": "Proyek ini mungkin merupakan eksplorasi awal atau 'sandbox' untuk ide-ide desain dan pengembangan portfolio. Meskipun namanya menunjukkan eksplorasi informal, ini bisa menjadi fondasi untuk konsep-konsep yang lebih matang di masa depan.",
+    "category": "Web Development (Using Vue.JS)",
+    "type": "PORTFOLIO",
+    "year": "2023",
+    "externalImageUrl": "https://camo.githubusercontent.com/9afecce4db7c445203f66bc8da91eeec78de9c6cbaa6e2f7c1bdc7cfb8d930d5/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d47394844314a7556436d302f566d63545739702d4673492f41414141414141414249592f304a6456784e7979306a732f73313630302f6c61726176656c2d6c756d656e2e676966",
+    "githubUrl": "https://github.com/saintcitto/shit-portofolio"
+  },
+  {
+    "id": "5",
+    "title": "POS Sonia Cafe",
+    "slug": "pos-sonia-cafe",
+    "description": "Sistem Point of Sale (POS) yang dirancang khusus untuk Sonia Cafe, mengelola pesanan, inventaris, dan transaksi.",
+    "longDescription": "Proyek ini adalah pengembangan sistem Point of Sale (POS) yang disesuaikan untuk kebutuhan operasional Sonia Cafe. Fitur meliputi manajemen menu, pelacakan inventaris, pemrosesan transaksi, dan laporan penjualan. Tujuannya adalah untuk mengoptimalkan efisiensi dan akurasi dalam operasional harian kafe.",
+    "category": "POS System (Using PHP)",
+    "type": "COMMERCIAL",
+    "year": "2024",
+    "agency": "Vim",
+    "externalImageUrl": "https://khumanparmar.wordpress.com/wp-content/uploads/2014/12/pixel-stork-a6e4540e.gif",
+    "githubUrl": "https://github.com/saintcitto/POS-Sonia-Cafe"
+  },
+  {
+    "id": "6",
+    "title": "Porfolio",
+    "slug": "ala-cinematic-portfolio",
+    "description": "Pengembangan portfolio pribadi berbasis web menggunakan React.js untuk menampilkan proyek-proyek dan keahlian teknis secara interaktif.",
+    "longDescription": "Proyek ini adalah implementasi dari portfolio pribadi berbasis web yang memanfaatkan React.js untuk antarmuka pengguna yang dinamis dan modern. Tujuannya adalah untuk menyajikan pengalaman interaktif dalam menjelajahi berbagai proyek, keterampilan teknis, dan informasi pribadi. Fokus pada desain responsif dan performa tinggi.",
+    "category": "Web Development (Using React.JS)",
+    "type": "PORTFOLIO",
+    "year": "2025",
+    "externalImageUrl": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvctgguy9jig4h23gz481.gif",
+    "githubUrl": "https://github.com/saintcitto/ala-cinematic-portfolio"
+  }
+]
